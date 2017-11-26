@@ -1,5 +1,9 @@
 # Материалы с семинара по RxJS
 
+- [RxJS Visualization](https://rxviz.com/)
+- [RxJS Margbles](http://rxmarbles.com/)
+- [Learn RxJS](https://www.learnrxjs.io/)
+
 ## Ссылки при подготовке:
 - Observable pattern [en](http://anasfirdousi.com/understanding-observable-patterns-behind-observables-rxjs-rx.html)
 - Why should I use rxjs? [en](https://blog.dmbcllc.com/reasons-to-use-rxjs-today/)
